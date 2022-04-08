@@ -1,0 +1,32 @@
+[
+    {
+     "id": 1,
+     "brand": "Adidas",
+     "color": "brown",
+     "size": "small"   
+    },
+    {
+        "id": 2,
+        "brand": "Nike",
+        "color": "white",
+        "size": "large"   
+    },
+    {
+        "id": 3,
+        "brand": "Puma",
+        "color": "red",
+        "size": "extra-large"   
+    },
+    {
+        "id": 4,
+        "brand": "Redbat",
+        "color": "khaki",
+        "size": "medium"   
+    },
+    {
+        "id": 5,
+        "brand": "Zara",
+        "color": "black",
+        "size": "medium"   
+    }
+]
